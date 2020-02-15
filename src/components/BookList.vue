@@ -8,7 +8,7 @@
 </template>
 
 <script>
-import './BookItem'
+import './BookItem';
 
 export default {
   name: "BookList",
